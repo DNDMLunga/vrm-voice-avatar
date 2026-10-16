@@ -1,0 +1,213 @@
+{
+ "_about": "Starter poses. Euler XYZ radians on VRM normalized humanoid bones; bones not listed are [0,0,0]. Left/Right are the VRM names (leftXxx = the avatar's own left). Arm rules on this rig: upperArm Z lowers/raises (left negative = down, right positive = down), upperArm Y swings forward (left negative, right positive), lowerArm Y bends the elbow forward (left negative, right positive), X only twists. Preview any pose with index.html?pose=NAME (add &yaw=70 for a side view).",
+ "rest": {
+  "leftUpperArm": [
+   0,
+   -0.05,
+   -1.25
+  ],
+  "leftLowerArm": [
+   0,
+   -0.15,
+   0
+  ],
+  "rightUpperArm": [
+   0,
+   0.05,
+   1.25
+  ],
+  "rightLowerArm": [
+   0,
+   0.15,
+   0
+  ],
+  "leftShoulder": [
+   0,
+   0,
+   -0.05
+  ],
+  "rightShoulder": [
+   0,
+   0,
+   0.05
+  ],
+  "head": [
+   0.02,
+   0,
+   0
+  ],
+  "spine": [
+   0.02,
+   0,
+   0
+  ]
+ },
+ "shift": {
+  "hips": [
+   0,
+   0.06,
+   -0.05
+  ],
+  "spine": [
+   0,
+   -0.05,
+   0.05
+  ],
+  "chest": [
+   0,
+   0,
+   0.02
+  ],
+  "head": [
+   0.03,
+   -0.14,
+   0.08
+  ],
+  "neck": [
+   0,
+   0,
+   -0.04
+  ],
+  "leftUpperLeg": [
+   -0.02,
+   0,
+   -0.1
+  ],
+  "rightUpperLeg": [
+   -0.02,
+   0,
+   0.04
+  ],
+  "leftUpperArm": [
+   0,
+   0.1,
+   -1.05
+  ],
+  "leftLowerArm": [
+   0,
+   -0.7,
+   0
+  ],
+  "rightUpperArm": [
+   0,
+   0.05,
+   1.3
+  ],
+  "rightLowerArm": [
+   0,
+   0.1,
+   0
+  ]
+ },
+ "talking": {
+  "spine": [
+   0.03,
+   0,
+   0
+  ],
+  "head": [
+   0.02,
+   0,
+   0
+  ],
+  "leftShoulder": [
+   0,
+   0,
+   -0.04
+  ],
+  "rightShoulder": [
+   0,
+   0,
+   0.04
+  ],
+  "leftUpperArm": [
+   0,
+   -0.45,
+   -1.1
+  ],
+  "leftLowerArm": [
+   0,
+   -1.3,
+   0
+  ],
+  "rightUpperArm": [
+   0,
+   0.45,
+   1.1
+  ],
+  "rightLowerArm": [
+   0,
+   1.3,
+   0
+  ]
+ },
+ "thinking": {
+  "head": [
+   0.08,
+   0.2,
+   0.12
+  ],
+  "neck": [
+   0.04,
+   0.05,
+   0.04
+  ],
+  "spine": [
+   0.03,
+   0,
+   0
+  ],
+  "leftUpperArm": [
+   0,
+   -0.3,
+   -1.1
+  ],
+  "leftLowerArm": [
+   0,
+   -1.2,
+   0
+  ],
+  "rightUpperArm": [
+   0,
+   0.55,
+   1.0
+  ],
+  "rightLowerArm": [
+   0,
+   2.2,
+   0
+  ]
+ },
+ "excited": {
+  "spine": [
+   -0.05,
+   0,
+   0
+  ],
+  "head": [
+   -0.12,
+   0,
+   0
+  ],
+  "leftUpperArm": [
+   0,
+   -0.1,
+   1.5
+  ],
+  "leftLowerArm": [
+   0,
+   -0.3,
+   0
+  ],
+  "rightUpperArm": [
+   0,
+   0.1,
+   -1.5
+  ],
+  "rightLowerArm": [
+   0,
+   0.3,
+   0
+  ]
+ }
+}

@@ -1,0 +1,17 @@
+{
+  "model": "assets/avatar.vrm",
+  "poses": "poses.json",
+  "mouthGain": 1.6,
+  "stateExpressions": {
+    "idle": { "relaxed": 0.25 },
+    "listening": { "happy": 0.15 },
+    "thinking": { "relaxed": 0.1 },
+    "speaking": { "happy": 0.2 }
+  },
+  "director": {
+    "rest": ["rest", "shift"],
+    "talking": "talking",
+    "thinking": "thinking",
+    "emotes": { "excited": "excited" }
+  }
+}

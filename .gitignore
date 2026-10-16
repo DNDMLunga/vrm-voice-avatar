@@ -1,0 +1,13 @@
+# your character: do not publish unless its licence allows redistribution
+assets/*.vrm
+assets/*.glb
+# downloaded by tools/fetch_libs.py
+lib/
+# runtime
+bus/
+.voice_*
+__pycache__/
+*.pyc
+*.bak
+# local audio tests
+*.wav
